@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igogi
 - 👀 I’m interested in back-end programing
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on solveing my college tasks
 - 📫 How to reach me ig:bogicevic_ognjen
 
